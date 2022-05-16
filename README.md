@@ -3,7 +3,7 @@
   
   Pré-requisitos:
   1. Python instalado;
-  2. Robot Framework instalado;
+  2. Robot Framework + Selenium Library instalado;
   3. Chrome instalado com o Web Driver dentro da pasta de variável de ambiente do windows Path.
   
   Execução:
